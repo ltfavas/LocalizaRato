@@ -82,6 +82,7 @@
   </ItemGroup>
   <ItemGroup>
     <Content Include="mouseP.ico" />
+    <Content Include="pic\asd.png" />
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
 </Project>
